@@ -1,0 +1,14 @@
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.deps.json
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.runtimeconfig.json
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.dll
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.pdb
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\IntroSE.Kanban.Backend.dll
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\refint\IntroSE.Kanban.Backend.dll
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\IntroSE.Kanban.Backend.pdb
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\Win10\Desktop\Kanban\kanban\2022-2023-2023-2024-30\Backend\obj\Debug\net6.0\ref\IntroSE.Kanban.Backend.dll
